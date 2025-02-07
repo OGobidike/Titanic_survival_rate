@@ -54,7 +54,7 @@ These findings not only underscore historical accounts but also demonstrate how 
 ![Siblings/Spouses vs. Survival](Sib_spouse.png)
 
 ### 📊 Age and Survival Rate
-[Age vs. Survival]()
+[Age vs. Survival](age_survival.png)
 
 These visualizations highlight the key patterns observed in the dataset and reinforce the conclusions drawn from the analysis.
 
