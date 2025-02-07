@@ -1,8 +1,8 @@
 # Titanic Survival Rate Analysis  
-*A Tableau Visualization Project*
+*My Tableau Visualization Project*
 
 ## Abstract
-This project leverages the Titanic dataset to explore factors that may have influenced survival rates during the infamous maritime disaster. Through a series of interactive visualizations created in Tableau, the project examines whether passenger class, family relationships (measured by the number of siblings/spouses aboard), and age had significant impacts on survival outcomes. By following the scientific method—posing hypotheses, conducting exploratory data analysis, and drawing conclusions—the project provides insights into historical survival trends and demonstrates effective data storytelling techniques.
+This project leverages the Titanic dataset to explore factors that may have influenced survival rates during the infamous maritime disaster. Through a series of interactive visualizations created in Tableau, the project examines whether passenger class, family relationships (measured by the number of siblings/spouses aboard at time of impact), and age had significant impacts on a single individuals survival. By following the proffesion Data Science method; posing hypotheses, conducting exploratory data analysis, and drawing conclusions, this project provides insights into historical survival trends and demonstrates effective data storytelling techniques and insights.
 
 ## Table of Contents
 - [Introduction](#introduction)
