@@ -47,11 +47,11 @@ These findings not only underscore historical accounts but also demonstrate how 
 
 ## Visualizations
 ### 🚢 Survival Rate by Passenger Class
-![Survival by Class](Pclass.png)
+[Survival by Class](Pclass.png)
 
 
 ### 🏠 Impact of Siblings/Spouses on Survival
-![Siblings/Spouses vs. Survival](Sib_spouse.png)
+[Siblings/Spouses vs. Survival](Sib_spouse.png)
 
 ### 📊 Age and Survival Rate
 [Age vs. Survival](age_survival.png)
