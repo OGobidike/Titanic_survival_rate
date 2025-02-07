@@ -51,7 +51,7 @@ These findings not only underscore historical accounts but also demonstrate how 
 
 
 ### 🏠 Impact of Siblings/Spouses on Survival
-![Siblings/Spouses vs. Survival]()
+![Siblings/Spouses vs. Survival](Sib_spouse.png)
 
 ### 📊 Age and Survival Rate
 [Age vs. Survival]()
