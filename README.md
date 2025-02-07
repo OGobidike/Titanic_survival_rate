@@ -16,7 +16,7 @@ This project leverages the Titanic dataset to explore factors that may have infl
 - [License](#license)
 
 ## Introduction
-The sinking of the Titanic remains one of the most well-known tragedies in history. The Titanic dataset contains records for passengers, including variables such as survival status, passenger class, age, and the number of siblings/spouses aboard. This project aims to dissect the factors influencing survival, moving beyond raw numbers to provide a narrative of discovery through interactive visualization.
+The sinking of the Titanic remains one of the most well-known tragedies in history. The Titanic dataset contains records for passengers, including variables such as survival status, passenger class, age, and the number of siblings/spouses aboard. This project aims to illuminate the factors influencing survival, moving beyond raw numbers to provide a narrative of discovery through interactive visualization.
 
 ## Hypotheses
 Based on historical context and preliminary research, the following hypotheses were explored:
@@ -32,7 +32,7 @@ Based on historical context and preliminary research, the following hypotheses w
    Using Tableau Desktop, multiple charts were created:
    - **Survival by Passenger Class:** A bar chart comparing survival rates across the different classes, highlighting the significantly higher survival rate in first class.
    - **Impact of Siblings/Spouses:** A visualization that plotted the number of siblings/spouses against survival outcomes, revealing that an increased count often led to a decreased survival rate.
-   - **Age Distribution and Survival:** A chart illustrating survival rates across age groups, with a notable peak in survival for passengers aged between 20-30.
+   - **Age Distribution and Survival:** A chart illustrating survival rates across age groups, with a suprising peak in survival for passengers aged between 20-30.
 
 3. **Scientific Analysis:**  
    Each visualization was analyzed to test the initial hypotheses, drawing on patterns observed in the charts to support or refute the expected trends.
@@ -47,7 +47,8 @@ These findings not only underscore historical accounts but also demonstrate how 
 
 ## Visualizations
 ### 🚢 Survival Rate by Passenger Class
-![Survival by Class](images/survival_by_class.png)
+![Survival by Class](![Pclass](https://github.com/user-attachments/assets/d21ead38-ce8c-4b6f-9408-88a82056feea)
+)
 
 ### 🏠 Impact of Siblings/Spouses on Survival
 ![Siblings/Spouses vs. Survival](images/siblings_vs_survival.png)
