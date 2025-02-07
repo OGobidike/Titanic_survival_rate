@@ -47,14 +47,14 @@ These findings not only underscore historical accounts but also demonstrate how 
 
 ## Visualizations
 ### 🚢 Survival Rate by Passenger Class
-![Survival by Class](![Pclass](https://github.com/user-attachments/assets/d21ead38-ce8c-4b6f-9408-88a82056feea)
-)
+![Survival by Class]()
+
 
 ### 🏠 Impact of Siblings/Spouses on Survival
-![Siblings/Spouses vs. Survival](images/siblings_vs_survival.png)
+![Siblings/Spouses vs. Survival]()
 
 ### 📊 Age and Survival Rate
-![Age vs. Survival](images/age_vs_survival.png)
+[Age vs. Survival]()
 
 These visualizations highlight the key patterns observed in the dataset and reinforce the conclusions drawn from the analysis.
 
