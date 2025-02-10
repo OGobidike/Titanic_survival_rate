@@ -66,7 +66,7 @@ To experience the interactive visualizations and explore the data further, pleas
 Alternatively, you can embed this dashboard in your browser or share it with others to facilitate discussion and further exploration.
 
 ## Conclusion
-This project illustrates a structured approach to data analysis using the scientific method—from hypothesizing and data cleaning to visualization and interpretation. The insights gained from the Titanic dataset offer a compelling historical perspective and exemplify how data visualization can be used to communicate complex findings effectively.
+This project illustrates a structured approach to data analysis using the scientific method. From hypothesizing and data cleaning, to visualization and interpretation, I am happy to say that it was fun following the Data Science Life Cycle to complete this. The insights gained from the Titanic dataset offer a compelling historical perspective and exemplify how data visualization can be used to communicate complex findings effectively.
 
 ## Project Structure
 ```
